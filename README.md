@@ -1,2 +1,0 @@
-# threejstest
-Created with CodeSandbox
